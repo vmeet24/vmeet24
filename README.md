@@ -9,7 +9,7 @@ Currently, I am a Computer Science Grad at Northeastern Univerisity, Boston. Bef
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [vora.me@northeastern.edu](mailto:vora.me@northeastern.edu)
 * 🧠  I'm learning Back-End Engineering Topics from YouTube channel of Hussein Nasser.
-* ⚡  I love games!! CSGO <3 & FIFA 22 <3
+* ⚡  OTAKU!!
 
 ### Skills
 
