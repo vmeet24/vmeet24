@@ -1,7 +1,7 @@
 Hi 👋 My name is Meet Vora
 ==========================
 
-Software Engineer
+Student
 --------------
 
 Currently, I am a Computer Science Grad at Northeastern Univerisity, Boston. Before this, I worked for two years as an Associate Software Engineer at Thomson Reuters India.
