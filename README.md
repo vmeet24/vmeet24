@@ -1,7 +1,7 @@
 Hello World!👋 I'm Meet Vora
 ==========================
 
-Student
+Software Engineer
 --------------
 
 I am a Computer Science Grad at Northeastern Univerisity, Boston. I have 2 years of work experience as an Associate Software Engineer at Thomson Reuters.
