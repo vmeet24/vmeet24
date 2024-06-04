@@ -4,11 +4,11 @@ Hello World!👋 I'm Meet Vora
 Software Engineer
 --------------
 
-I am a Computer Science Grad at Northeastern Univerisity, Boston. I have 2 years of work experience as an Associate Software Engineer at Thomson Reuters.
+I am a Software Engineer at Philips North America.
 
 * 🌍  I'm based in Boston
-* ✉️  You can contact me at [vora.me@northeastern.edu](mailto:vora.me@northeastern.edu)
-* 🧠  I'm learning Back-End Engineering Topics from YouTube channel of Hussein Nasser.
+* ✉️  You can contact me at [meetvora1998@gmail.com](mailto:meetvora1998@gmail.com)
+* 🧠  I'm learning Back-End Engineering from YouTube channel of Hussein Nasser.
 * ⚡  OTAKU!!
 
 ### Skills
