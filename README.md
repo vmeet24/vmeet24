@@ -4,7 +4,7 @@ Hello World!👋 I'm Meet Vora
 Software Engineer
 --------------
 
-I am a Software Engineer at Philips North America.
+I am a Software Engineer.
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [meetvora1998@gmail.com](mailto:meetvora1998@gmail.com)
