@@ -1,45 +1,41 @@
-Hello World!👋 I'm Meet Vora
-==========================
+![Meet Vora — Software Engineer focused on .NET, data systems, React, and AI](assets/profile-banner.svg)
 
-Software Engineer
---------------
+I'm a software engineer at **Philips**, based in **Boston**. I build **C#/.NET services**, data pipelines, and React tools. I also prototype AI assistants that use LLM tool calling to carry out useful tasks.
 
-I am a Software Engineer.
+I like tracing a request all the way through a system: the API, the queue, the database, and the failure paths in between.
 
-* 🌍  I'm based in Boston
-* ✉️  You can contact me at [meetvora1998@gmail.com](mailto:meetvora1998@gmail.com)
-* 🧠  I'm learning Back-End Engineering from YouTube channel of Hussein Nasser.
-* ⚡  OTAKU!!
+[LinkedIn](https://www.linkedin.com/in/meetvora1998/) · [Email](mailto:meetvora1998@gmail.com) · [Portfolio](https://vmeet24.github.io/)
 
-### Skills
+## What I work on
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
+- **Backend and data systems:** asynchronous services, event ingestion, distributed SQL, and aggregation, with attention to retries, isolation, and observability.
+- **Full stack tools:** React and TypeScript interfaces backed by .NET or Express services, making technical workflows easier to operate.
+- **AI prototypes:** assistants with tool calling and agentic loops, with caching, rate limits, and timeouts around their execution.
 
+## Selected public projects
 
-### Socials
+### [Space Station Simulation](https://github.com/vmeet24/Space-Station-Simulation)
 
-<p align="left"> <a href="https://www.github.com/vmeet24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vmeet24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vmeet24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+A **C#/.NET** simulation with separate launch-vehicle and payload services, **WCF telemetry callbacks**, and a **Windows Forms** mission dashboard. Includes launch, deployment, and deorbit controls.
 
-### Badges
+### [YugabyteDB on Kubernetes](https://github.com/vmeet24/yb-eks)
 
-<b>My GitHub Stats</b>
+**Helm and Argo CD configurations** for running YugabyteDB on Kubernetes, with tenant-specific database nodes, persistent storage, and Prometheus monitoring.
 
-<a href="http://www.github.com/vmeet24"><img src="https://activity-graph.herokuapp.com/graph?username=vmeet24&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### [URL Shortener](https://github.com/vmeet24/url-shortener)
 
-<a href="https://github.com/vmeet24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmeet24&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+A **Java/Spring Boot** URL shortener with **Base62 links**, PostgreSQL persistence, Redis caching, and redirect analytics.
+
+## Tools I use
+
+| Area | Tools |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core, Python, Node.js, Express |
+| Interfaces | React, TypeScript, JavaScript |
+| Data and messaging | SQL, PostgreSQL, YugabyteDB, Kafka, NATS JetStream, RabbitMQ, Protobuf |
+| Cloud and delivery | AWS, Kubernetes, Helm, Argo CD, Terraform |
+| AI | AWS Bedrock, Claude, LLM tool calling |
+
+**M.S. in Computer Science, Northeastern University.**
+
+Outside of code, I take anime recommendations seriously.
