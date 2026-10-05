@@ -18,10 +18,6 @@ I like tracing a request all the way through a system: the API, the queue, the d
 
 A **C#/.NET** simulation with separate launch-vehicle and payload services, **WCF telemetry callbacks**, and a **Windows Forms** mission dashboard. Includes launch, deployment, and deorbit controls.
 
-### [YugabyteDB on Kubernetes](https://github.com/vmeet24/yb-eks)
-
-**Helm and Argo CD configurations** for running YugabyteDB on Kubernetes, with tenant-specific database nodes, persistent storage, and Prometheus monitoring.
-
 ### [URL Shortener](https://github.com/vmeet24/url-shortener)
 
 A **Java/Spring Boot** URL shortener with **Base62 links**, PostgreSQL persistence, Redis caching, and redirect analytics.
