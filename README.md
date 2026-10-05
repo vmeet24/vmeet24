@@ -12,15 +12,17 @@ I like tracing a request all the way through a system: the API, the queue, the d
 - **Full stack tools:** React and TypeScript interfaces backed by .NET or Express services, making technical workflows easier to operate.
 - **AI prototypes:** assistants with tool calling and agentic loops, with caching, rate limits, and timeouts around their execution.
 
-## Selected public projects
+## Selected projects
+
+### AI Stock Analyzer
+
+*Private repository*
+
+A **React/TypeScript** stock-analysis app with an **Express backend**, technical indicators, **Claude-assisted analysis**, and live updates over **Server-Sent Events**. Background jobs handle AI analysis, with caching and optional PostgreSQL persistence.
 
 ### [Space Station Simulation](https://github.com/vmeet24/Space-Station-Simulation)
 
 A **C#/.NET** simulation with separate launch-vehicle and payload services, **WCF telemetry callbacks**, and a **Windows Forms** mission dashboard. Includes launch, deployment, and deorbit controls.
-
-### [URL Shortener](https://github.com/vmeet24/url-shortener)
-
-A **Java/Spring Boot** URL shortener with **Base62 links**, PostgreSQL persistence, Redis caching, and redirect analytics.
 
 ## Tools I use
 
